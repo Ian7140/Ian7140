@@ -12,6 +12,6 @@
 
 📧 Email : rlawnals7140@gmail.com
 
-💼 Blog : https://velog.io/@kimtanya7140/posts  |   https://brunch.co.kr/@23ec29624485400
+💼 Blog : https://velog.io/@kimtanya7140/posts
 
 <!--📄 Portfolio : [Notion site]--!>
