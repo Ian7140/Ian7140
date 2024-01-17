@@ -5,7 +5,7 @@
 
 - React.js
 - React Native
-- Python
+- Python, PyTorch
 - C, C++, C#
 - HTML, CSS, JS
 
@@ -14,4 +14,3 @@
 
 💼 Blog : https://velog.io/@kimtanya7140/posts
 
-<!--📄 Portfolio : [Notion site]--!>
