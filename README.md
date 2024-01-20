@@ -6,6 +6,7 @@
 - React.js
 - React Native
 - Python, PyTorch
+- Java, Kotlin
 - C, C++, C#
 - HTML, CSS, JS
 
