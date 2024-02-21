@@ -3,9 +3,8 @@
 
 #### 👩🏻‍💻 I'm learning...
 
-- React.js, React Native
-- Python, PyTorch
-- Java, Kotlin
+- Python
+- Java
 - C, C++, C#
 - HTML, CSS, JS
 
