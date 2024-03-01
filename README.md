@@ -1,12 +1,13 @@
 
-👋 Hi, I'm Ian, currently a 2nd-grade student at Busan Software Meister Highschool, specializing in Full Stack and AI development.
+👋 Hi, I'm Ian, currently a 2nd-grade student at Busan Software Meister Highschool.
+
 
 #### 👩🏻‍💻 I'm learning...
 
-- Python
-- Java
-- C, C++, C#
+- React, React Native
 - HTML, CSS, JS
+- Python, C, C++, C#
+- Java
 
 
 📧 Email : rlawnals7140@gmail.com
