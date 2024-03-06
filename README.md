@@ -4,10 +4,9 @@
 
 #### 👩🏻‍💻 I'm learning...
 
-- React, React Native
+- React, Java
 - HTML, CSS, JS
-- Python, C, C++, C#
-- Java
+- Python, C, C++
 
 
 📧 Email : rlawnals7140@gmail.com
