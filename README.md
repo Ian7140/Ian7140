@@ -11,5 +11,4 @@
 
 📧 Email : rlawnals7140@gmail.com
 
-💼 Blog : https://blog.naver.com/rlawnals_
 
