@@ -11,5 +11,5 @@
 
 📧 Email : rlawnals7140@gmail.com
 
-💼 Blog : https://velog.io/@kimtanya7140/posts
+💼 Blog : https://blog.naver.com/rlawnals_
 
