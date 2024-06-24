@@ -1,5 +1,5 @@
 
-👋 Hi, I'm Ian, currently a 2nd-grade student at Busan Software Meister Highschool.
+👋 Hi, I'm Ian
 
 
 #### 👩🏻‍💻 I'm learning...
